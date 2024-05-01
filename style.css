@@ -1,0 +1,9 @@
+.container>div{
+padding: 30px;
+font-size: 20px;
+color: rgb(6, 12, 17);
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
